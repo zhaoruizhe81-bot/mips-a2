@@ -1,0 +1,8 @@
+
+Program terminated when maximum step limit 144 reached.
+
+144
+
+$s3	50
+$s4	5
+Mem[0x1001002c]	50	5	
